@@ -1,4 +1,4 @@
-# Blinkit Data Analysis Dashboard by Abhinav Dubey
+# Quickk-Commmerce Data Analysis Dashboard by Abhinav Dubey
 
 ## Project Overview
 
